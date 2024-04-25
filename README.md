@@ -1,5 +1,5 @@
 ## Description
-The senior executives gave their requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI.
+Requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI.
 
 ## Tools used
 - SQL
