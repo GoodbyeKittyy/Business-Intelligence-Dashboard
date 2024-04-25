@@ -1,5 +1,20 @@
 ## Description
-Requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI.
+Requirements of building five different dashboards specifically the Finance view, Sales view, Marketing view, Supply Chain view, and Executive view in Power BI. The following is a non-exhaustive list of concepts covered:
+
+- Gross price
+- Pre and Post Invoice Deductions
+- Net Invoice sales
+- Net sales
+- Cost Of Goods sold (COGs)
+- Gross Margin
+- Net profit
+- Fiscal Year
+- Quarter-on-Quarter growth
+- Year-on-Year Growth
+- Net Error
+- Future Forecasting 
+- Channel types: Direct, Retailer, Wholesaler/ Distributor
+- Customer vs Consumer
 
 ## Tools used
 - SQL
